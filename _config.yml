@@ -1,0 +1,14 @@
+layout_spectrum: 0.4709657358471304
+typography_spectrum: 0.5435924888588488
+color:
+  brandStrength: 0.8607767554931343
+  lightness: 0.7163428030908108
+  saturation: 0.8309920083265752
+  rhythmicContrast: 0.7375032200943679
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: pajaro-piedra
