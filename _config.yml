@@ -6,9 +6,9 @@ color:
   saturation: 0.8309920083265752
   rhythmicContrast: 0.7375032200943679
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
 name: pajaro-piedra
